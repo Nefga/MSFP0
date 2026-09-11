@@ -6,7 +6,7 @@ Practica 0: Sistema pulmonar de segundo orden
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información del estudiante
-Neltzon Farid Garcia Altamirano\[23212194]; l23212194@tecjuana.tecn.mx
+Neltzon Farid Garcia Altamirano\[23212194]; l23212194@tijuana.tecn.mx
 
 Modelado de Sistemas Fisiológicos
 
